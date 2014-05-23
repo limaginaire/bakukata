@@ -1,0 +1,72 @@
+/* 
+    Document   : style.css
+    Created on : Apr 27, 2014, 5:18:23 PM
+    Author     : arief
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+.re {
+    background-color: #B0C9FA;
+}
+.block {
+    display: block;
+}
+.mg-top-10 {
+    margin-top: 10px;
+}
+.mg-btm-10 {
+    margin-bottom: 10px;
+}
+.mg-left-10 {
+    margin-left: 10px;
+}
+.mg-right-10 {
+    margin-right: 10px;
+}
+.pad-all-10 {
+    padding: 10px;
+}
+.pad-top-10 {
+    padding-top: 10px;
+}
+.pad-btm-10 {
+    padding-bottom: 10px;
+}
+.pad-top-30 {
+    padding-top: 30px;
+}
+.pad-btm-30 {
+    padding-bottom: 30px;
+}
+.pad-top-btm-30 {
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.bold {
+    font-weight: bold;
+}
+.left {
+    float: left;
+}
+.right {
+    float: right;
+}
+
+.list-data {
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+.list-data li:first-child {
+    border-top: solid 1px #f3f3f3;
+}
+.list-data li {
+    width: 100%;
+    border-bottom: solid 1px #f3f3f3;
+}
+.list-data p {
+    margin-bottom: 0;
+}
+.center {
+    text-align: center;
+}
